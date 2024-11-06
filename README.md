@@ -24,7 +24,14 @@
 
 
 
+# Contact Information
 
+- **Name**: Billy
+- **交流群**: 925643491
+- **Email**: a845656974@outlook.com
+- **Phone**: +86 15622736378
+- **CSDN Blog**: [Blog](https://blog.csdn.net/qq_24312945)
+- **Video**: [Video](https://space.bilibili.com/26152390)
 
 
 
